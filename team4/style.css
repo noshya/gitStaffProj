@@ -6,3 +6,10 @@
 header {}
 
 nav {}
+
+.david{
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: blueviolet;
+    padding: 60px;
+}
