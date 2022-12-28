@@ -3,6 +3,9 @@
     padding: 0;
 }
 
-header {}
-
-nav {}
+header {
+    background-color: black;
+}
+nav {
+    stroke-dasharray: none;
+}
