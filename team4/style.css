@@ -7,11 +7,18 @@ header {}
 
 nav {}
 
+.david{
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: blueviolet;
+    padding: 60px;
+
 .roye {
     background-color: black;
     color: white;
     width: 100px;
     height: 100px;
     border-radius: 50%;
+
 
 }
