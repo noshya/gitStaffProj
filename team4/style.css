@@ -6,4 +6,6 @@
 header {
     background-color: black;
 }
-nav {}
+nav {
+    stroke-dasharray: none;
+}
